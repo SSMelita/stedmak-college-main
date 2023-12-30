@@ -1,2 +1,1 @@
-# stedmak-college-main
-Stedmak College Website
+# steadmak_college_website
